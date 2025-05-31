@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const Snoway = require('../../structures/client/index.js');
 
 module.exports = {
-    name: 'add',
+    name: 'reper',
     description: {
         fr: 'Génère un message +rep formaté.',
         en: 'Generate a formatted +rep message.'
